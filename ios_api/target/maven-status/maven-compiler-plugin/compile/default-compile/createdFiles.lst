@@ -1,7 +1,0 @@
-project/Main.class
-project/HttpJsonClient.class
-project/JsonConverter.class
-project/httpserver/HttpServerApp.class
-project/httpserver/TournamentHandler.class
-project/httpserver/HttpServerApp$JsonHandler.class
-project/httpserver/HttpServerApp$GreetingHandler.class
